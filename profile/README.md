@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Swing-Desktop%20UI-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docs-Korean-111827?style=flat-square" />
 </p>
 
@@ -23,6 +23,6 @@ LG 유플러스 유레카 과정에서 만든 프로젝트를 **지금도 실행
 
 | 저장소 | 설명 | 기술 |
 | --- | --- | --- |
-| [**CineSeat**](https://github.com/LG-Eureka/CineSeat) | 날짜 · 회차 · 좌석을 골라 예매하는 영화 좌석 예매 데스크톱 애플리케이션. 좌석 중복 예매 차단, 실제 상영작 데이터 연동(KOBIS)까지 포함합니다. | `Java` `Swing` `MySQL` `JDBC` |
+| [**CineSeat**](https://github.com/LG-Eureka/CineSeat) | 날짜 · 회차 · 좌석을 골라 예매하는 영화 좌석 예매 데스크톱 애플리케이션. 좌석 중복 예매 차단, 실제 상영작 데이터 연동(KOBIS)까지 포함합니다. `./run.sh` 하나로 실행됩니다. | `Java` `Swing` `SQLite` `JDBC` |
 
 > 과정에서 만든 나머지 프로젝트도 하나씩 옮겨 올 예정입니다.
